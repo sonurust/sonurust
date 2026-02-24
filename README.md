@@ -1,44 +1,52 @@
 # 👋 Hello, I'm Sonu Kumar
 
-**Rust Developer | Contributor at MCP | Exploring Systems Programming**
+![Profile Banner](profile-banner.png)
 
-## 🚀 My Rust Journey
+**Senior Software Engineer | Rust Evangelist | Mobile & AI Developer**
 
-I'm on a mission to master Rust programming and contribute to the ecosystem. This profile documents my learning path, projects, and contributions.
-
-## 🗺️ Learning Roadmap
-
-- **Week 1**: Rust Setup, Cargo, Ownership, Borrowing
-- **Week 2**: Enums, Pattern Matching, Modules
-- **Week 3**: Traits, Lifetimes, Collections
-- **Week 4**: Async, Crates, Error Handling
-
-## 📚 Resources I'm Using
-
-- [The Rust Programming Language (The Rust Book)](https://doc.rust-lang.org/book/)
-- [Rustlings](https://github.com/rust-lang/rustlings)
-- [Crust of Rust (Jon Gjengset)](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
-- Mini Projects (CLI, WebAssembly, Systems tools)
-
-## 📊 Progress Tracking
-
-- Daily Goal: 10 commits
-- Weekly: Complete learning modules and mini-projects
-- Monthly: Contribute to open-source Rust projects
-
-## 🔗 Featured Repositories
-
-- [30-days-of-rust](https://github.com/sonurust/30-days-of-rust) - Daily Rust coding challenges
-- [rust-100x-learning](https://github.com/sonurust/rust-100x-learning) - My path to 100x Rust proficiency
-- [rust-roadmap](https://github.com/sonurust/rust-roadmap) - Curated learning resources and progress
-
-## 🤝 Let's Connect
-
-I'm looking to connect with fellow Rust enthusiasts and contributors. Feel free to reach out if you're working on interesting Rust projects or want to collaborate!
-
-sonurust@gmail.com
-+91-9810218672
+Building high-performance systems and delightful mobile experiences. Passionate about Rust, Systems Programming, and the future of AI.
 
 ---
 
-*This profile is part of my documented journey to become a proficient Rust developer.*
+### 🚀 Core Expertise
+
+- **🦀 Systems Programming**: Rust (Ownership, Concurrency, Performance), Systems Design.
+- **📱 Mobile Development**: Expo, React Native, NativeWind, Kotlin (Android).
+- **🤖 AI & Tooling**: LLM Fine-tuning (Qwen), AI Coding Assistants, Developer SDKs.
+- **🔗 Integrations**: AuthSetu, MCP (Model Context Protocol).
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[30-days-of-rust](https://github.com/sonurust/30-days-of-rust)** | A deep dive into mastering Rust through daily challenges. | Rust, Cargo |
+| **[expo-nativewind-template](https://github.com/sonurust/expo-nativewind-template)** | Professional starter kit for Expo + TailwindCSS. | React Native, TypeScript |
+| **[kilocode](https://github.com/sonurust/kilocode)** | AI-powered coding assistant for planning and execution. | Python, AI, Git |
+| **[WaterTrackDrinkWaterReminder](https://github.com/sonurust/WaterTrackDrinkWaterReminder)** | Modern Android app for daily water tracking with reminders. | Kotlin, Android SDK |
+| **[authsetu-node-sdk](https://github.com/sonurust/authsetu-node-sdk)** | Seamless authentication integration for Node.js apps. | JavaScript, Auth |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonurust&show_icons=true&theme=tokyonight" alt="Sonu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonurust&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+- 📧 Email: [sonurust@gmail.com](mailto:sonurust@gmail.com)
+- 💬 Discord: `sonurust`
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sonurust/) (Update this link!)
+- 📱 Phone: +91-9810218672
+
+---
+
+<p align="center">
+  <i>"Code is poetry, Rust is the ink."</i>
+</p>
