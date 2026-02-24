@@ -29,11 +29,21 @@ Building high-performance systems and delightful mobile experiences. Passionate 
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonurust&show_icons=true&theme=tokyonight" alt="Sonu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonurust&show_icons=true&theme=tokyonight&count_private=true" alt="Sonu's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonurust&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonurust&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonurust&theme=tokyo-night" width="100%" />
 </p>
 
 ---
