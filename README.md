@@ -14,18 +14,35 @@
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🌟 Featured & Pinned Repositories
 
-- **Languages & Frameworks:** Rust, TypeScript, Python, Java (Spring Boot), Next.js 15, React 19, Node.js
-- **Cloud & AI:** Google Cloud (Gemini 3.6 Flash, Vertex AI, Cloud Run, Firestore), AWS (App Runner, SES, SNS, DynamoDB)
-- **Architecture:** Multi-Agent Systems, Event-Driven Microservices, Server-Sent Events (SSE), Human-in-the-loop Autonomous Workflows
+| Repository | Description | Tech Stack | Live / Repo |
+|---|---|---|---|
+| **[DocSetuAI](https://github.com/sonurust/DocSetuAI)** | Autonomous AI Business Operations Platform powered by Gemini 3.6 Flash & Google ADK | TypeScript, Next.js 15, Cloud Run, Firestore | [Live Demo](https://docsetuai.vercel.app) \| [GitHub](https://github.com/sonurust/DocSetuAI) |
+| **[RAG-LLM-golang-project](https://github.com/sonurust/RAG-LLM-golang-project)** | High-throughput Vector RAG Pipeline with Semantic Search & Embeddings | Go (Golang), pgvector, LLMs | [GitHub](https://github.com/sonurust/RAG-LLM-golang-project) |
+| **[enterprise-java21-developer-kit](https://github.com/sonurust/enterprise-java21-developer-kit)** | Enterprise-grade Java 21 & Spring Boot microservices starter kit | Java 21, Spring Boot 3, Docker | [GitHub](https://github.com/sonurust/enterprise-java21-developer-kit) |
+| **[Agent-Skills-for-Context-Engineering](https://github.com/sonurust/Agent-Skills-for-Context-Engineering)** | Agentic skills, prompts, and orchestration tooling for context engineering | AI Agents, Python, TypeScript | [GitHub](https://github.com/sonurust/Agent-Skills-for-Context-Engineering) |
+| **[authsetu-node-sdk](https://github.com/sonurust/authsetu-node-sdk)** | Official Node.js SDK for AuthSetu Authentication & Access Management | Node.js, TypeScript, REST API | [GitHub](https://github.com/sonurust/authsetu-node-sdk) |
+| **[authsetu-python-sdk](https://github.com/sonurust/authsetu-python-sdk)** | Official Python SDK for AuthSetu Multi-Tenant Auth Services | Python 3, Asyncio, PyPI | [GitHub](https://github.com/sonurust/authsetu-python-sdk) |
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+`	ext
+Languages      : Rust, TypeScript, JavaScript, Go (Golang), Python, Java 21, SQL
+Frontend       : Next.js 15, React 19, TailwindCSS, Server-Sent Events (SSE)
+Backend & APIs : Spring Boot 3, Express, Node.js, Fastify, GraphQL, REST, WebSockets
+Cloud & DevOps : Google Cloud (Cloud Run, Vertex AI, Firestore), AWS (App Runner, SES, SNS), Docker
+AI & Agents    : Google Gemini 3.6 Flash, Google GenAI SDK, Multi-Agent Systems, RAG
+`
 
 ---
 
 ### 📬 Connect With Me
 
 - 📱 **Phone / WhatsApp:** [+91 9810659036](https://wa.me/919810659036)
-- 🌐 **Project:** [DocSetuAI on Vercel](https://docsetuai.vercel.app)
+- 🌐 **Portfolio & Live Project:** [https://docsetuai.vercel.app](https://docsetuai.vercel.app)
 - 📸 **Instagram:** [@skbhati1992](https://instagram.com/skbhati1992)
 - 📘 **Facebook:** [skbhati199](https://facebook.com/skbhati199)
 - 💻 **GitHub:** [@sonurust](https://github.com/sonurust)
