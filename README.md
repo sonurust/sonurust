@@ -16,9 +16,9 @@
 
 ### 🌟 Featured & Pinned Repositories
 
-| Repository | Description | Tech Stack | Live / Repo |
+| Repository | Description | Tech Stack | Links |
 |---|---|---|---|
-| **[DocSetuAI](https://github.com/sonurust/DocSetuAI)** | Autonomous AI Business Operations Platform powered by Gemini 3.6 Flash & Google ADK | TypeScript, Next.js 15, Cloud Run, Firestore | [Live Demo](https://docsetuai.vercel.app) \| [GitHub](https://github.com/sonurust/DocSetuAI) |
+| **[DocSetuAI](https://github.com/sonurust/DocSetuAI)** | Autonomous AI Business Operations Platform powered by Gemini 3.6 Flash & Google ADK | TypeScript, Next.js 15, Cloud Run, Firestore | [Live Demo](https://docsetuai.vercel.app) • [GitHub](https://github.com/sonurust/DocSetuAI) |
 | **[RAG-LLM-golang-project](https://github.com/sonurust/RAG-LLM-golang-project)** | High-throughput Vector RAG Pipeline with Semantic Search & Embeddings | Go (Golang), pgvector, LLMs | [GitHub](https://github.com/sonurust/RAG-LLM-golang-project) |
 | **[enterprise-java21-developer-kit](https://github.com/sonurust/enterprise-java21-developer-kit)** | Enterprise-grade Java 21 & Spring Boot microservices starter kit | Java 21, Spring Boot 3, Docker | [GitHub](https://github.com/sonurust/enterprise-java21-developer-kit) |
 | **[Agent-Skills-for-Context-Engineering](https://github.com/sonurust/Agent-Skills-for-Context-Engineering)** | Agentic skills, prompts, and orchestration tooling for context engineering | AI Agents, Python, TypeScript | [GitHub](https://github.com/sonurust/Agent-Skills-for-Context-Engineering) |
@@ -29,13 +29,13 @@
 
 ### 🛠️ Tech Stack & Skills
 
-`	ext
+```text
 Languages      : Rust, TypeScript, JavaScript, Go (Golang), Python, Java 21, SQL
 Frontend       : Next.js 15, React 19, TailwindCSS, Server-Sent Events (SSE)
 Backend & APIs : Spring Boot 3, Express, Node.js, Fastify, GraphQL, REST, WebSockets
 Cloud & DevOps : Google Cloud (Cloud Run, Vertex AI, Firestore), AWS (App Runner, SES, SNS), Docker
 AI & Agents    : Google Gemini 3.6 Flash, Google GenAI SDK, Multi-Agent Systems, RAG
-`
+```
 
 ---
 
