@@ -10,6 +10,7 @@
 
 <br/>
 
+[![Live Website](https://img.shields.io/badge/Live_Website-GitHub_Pages-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://sonurust.github.io/sonurust/)
 [![Download Resume PDF](https://img.shields.io/badge/Download_Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Sonu_Kumar_Resume.pdf)
 [![View Resume Online](https://img.shields.io/badge/View_Resume-GitHub_PDF-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonurust/sonurust/blob/main/Sonu_Kumar_Resume.pdf)
 [![Portfolio](https://img.shields.io/badge/Live_App-DocSetuAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://docsetuai.vercel.app)
@@ -26,10 +27,11 @@
 
 <div align="center">
 
-| Document | Format | Action Links |
+| Document / Link | Type | Action Links |
 |:---|:---:|:---|
-| **Sonu Kumar - Senior Software Developer Resume** | `PDF` | [📥 **Download PDF**](./Sonu_Kumar_Resume.pdf) • [👁️ **View on GitHub**](https://github.com/sonurust/sonurust/blob/main/Sonu_Kumar_Resume.pdf) • [🌐 **Raw File Link**](https://raw.githubusercontent.com/sonurust/sonurust/main/Sonu_Kumar_Resume.pdf) |
-| **Printable Resume Source** | `HTML / CSS` | [📝 **View Source (resume.html)**](./resume.html) |
+| 🌐 **Live Portfolio Website** | `GitHub Pages` | [🚀 **Open Website**](https://sonurust.github.io/sonurust/) |
+| 📄 **Sonu Kumar - Senior Software Developer Resume** | `PDF` | [📥 **Download PDF**](./Sonu_Kumar_Resume.pdf) • [👁️ **View on GitHub**](https://github.com/sonurust/sonurust/blob/main/Sonu_Kumar_Resume.pdf) • [🌐 **Raw Link**](https://raw.githubusercontent.com/sonurust/sonurust/main/Sonu_Kumar_Resume.pdf) |
+| 📝 **Printable Resume Source** | `HTML / CSS` | [📝 **View Source (resume.html)**](./resume.html) |
 
 </div>
 
