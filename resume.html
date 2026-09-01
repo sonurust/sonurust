@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sonu Kumar - Senior Software Developer Resume</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+  @page {
+    size: A4;
+    margin: 14mm 14mm 14mm 14mm;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #1e293b;
+    background-color: #ffffff;
+    font-size: 9.5pt;
+    line-height: 1.45;
+  }
+
+  .header {
+    border-bottom: 2px solid #3b82f6;
+    padding-bottom: 12px;
+    margin-bottom: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .header-left h1 {
+    font-size: 22pt;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.5px;
+  }
+
+  .header-left .subtitle {
+    font-size: 11pt;
+    font-weight: 600;
+    color: #2563eb;
+    margin-top: 2px;
+  }
+
+  .contact-info {
+    text-align: right;
+    font-size: 8.5pt;
+    color: #475569;
+    line-height: 1.4;
+  }
+
+  .contact-info a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+
+  .section {
+    margin-bottom: 13px;
+  }
+
+  .section-title {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #0f172a;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    border-bottom: 1.5px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin-bottom: 7px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .section-title::before {
+    content: "";
+    display: inline-block;
+    width: 4px;
+    height: 14px;
+    background: #2563eb;
+    border-radius: 2px;
+  }
+
+  .summary-text {
+    color: #334155;
+    text-align: justify;
+  }
+
+  .skills-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 8.5pt;
+  }
+
+  .skills-table td {
+    padding: 3px 0;
+    vertical-align: top;
+  }
+
+  .skills-label {
+    font-weight: 600;
+    color: #1e293b;
+    width: 22%;
+  }
+
+  .skills-value {
+    color: #475569;
+  }
+
+  .skills-value span {
+    background: #f1f5f9;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-right: 3px;
+    display: inline-block;
+    margin-bottom: 2px;
+    border: 1px solid #e2e8f0;
+    font-size: 8pt;
+    color: #0f172a;
+  }
+
+  .job {
+    margin-bottom: 9px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .job-title {
+    font-size: 9.8pt;
+    font-weight: 700;
+    color: #0f172a;
+  }
+
+  .company {
+    font-weight: 600;
+    color: #2563eb;
+  }
+
+  .job-date {
+    font-size: 8.5pt;
+    font-weight: 600;
+    color: #64748b;
+  }
+
+  ul.bullets {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 3px;
+  }
+
+  ul.bullets li {
+    position: relative;
+    padding-left: 14px;
+    margin-bottom: 2.5px;
+    color: #334155;
+  }
+
+  ul.bullets li::before {
+    content: "•";
+    position: absolute;
+    left: 2px;
+    color: #2563eb;
+    font-weight: bold;
+    font-size: 11pt;
+    line-height: 1;
+  }
+
+  .project-item {
+    margin-bottom: 7px;
+  }
+
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 9pt;
+  }
+
+  .project-name {
+    font-weight: 700;
+    color: #0f172a;
+  }
+
+  .project-tech {
+    font-size: 8pt;
+    color: #64748b;
+    font-style: italic;
+  }
+
+  .edu-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3px;
+    font-size: 9pt;
+  }
+
+  .edu-degree {
+    font-weight: 600;
+    color: #0f172a;
+  }
+
+  .edu-school {
+    color: #475569;
+  }
+
+  .edu-date {
+    color: #64748b;
+    font-weight: 500;
+  }
+
+  .badge-container {
+    display: flex;
+    gap: 8px;
+    margin-top: 4px;
+  }
+
+  .page-break {
+    page-break-before: always;
+    padding-top: 6px;
+  }
+</style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-left">
+      <h1>Sonu Kumar</h1>
+      <div class="subtitle">Senior Software Developer & Architect (10+ Years Experience)</div>
+    </div>
+    <div class="contact-info">
+      <div>📞 (+91) 9810659036 / 9910525949</div>
+      <div>📧 <a href="mailto:skbhati2015@gmail.com">skbhati2015@gmail.com</a> | <a href="mailto:sonurust@gmail.com">sonurust@gmail.com</a></div>
+      <div>🌐 <a href="https://github.com/skbhati199">github.com/skbhati199</a> | <a href="https://github.com/sonurust">github.com/sonurust</a></div>
+      <div>⚡ <a href="https://app.codecrafters.io/users/skbhati199">CodeCrafters Profile</a> | 📍 Noida, UP, India</div>
+    </div>
+  </div>
+
+  <!-- SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <p class="summary-text">
+      Senior Software Developer with <strong>10+ years of comprehensive experience</strong> in designing, building, and deploying scalable distributed backend systems, high-traffic web applications, native & cross-platform mobile apps, and intelligent AI/Agentic systems. Proven track record in orchestrating microservices architectures, IoT & EV charging standards (OCPP/OCPI), cloud-native infrastructures on AWS & GCP, and integrating LLMs/MCP server pipelines.
+    </p>
+  </div>
+
+  <!-- TECHNICAL SKILLS -->
+  <div class="section">
+    <div class="section-title">Technical Skills</div>
+    <table class="skills-table">
+      <tr>
+        <td class="skills-label">Languages:</td>
+        <td class="skills-value">
+          <span>Java (8/17/21)</span><span>Kotlin</span><span>Swift</span><span>TypeScript</span><span>JavaScript</span><span>Dart</span><span>Go (Golang)</span><span>Rust</span><span>Python</span><span>SQL</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="skills-label">Backend & Services:</td>
+        <td class="skills-value">
+          <span>Spring Boot 3</span><span>Hibernate / JPA</span><span>Node.js</span><span>Express.js</span><span>Kafka</span><span>RabbitMQ</span><span>RESTful & GraphQL APIs</span><span>OCPP 1.6/2.0.1 & OCPI</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="skills-label">Frontend & Web:</td>
+        <td class="skills-value">
+          <span>React.js</span><span>Next.js 15</span><span>Tailwind CSS</span><span>HTML5 & CSS3</span><span>Redux Toolkit</span><span>Server Actions & SSE</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="skills-label">Mobile Development:</td>
+        <td class="skills-value">
+          <span>Flutter (Dart)</span><span>React Native (TS)</span><span>Android Native (Java/Kotlin, Jetpack, MVVM)</span><span>iOS Native (Swift/UIKit/SwiftUI)</span><span>BLoC / GetX / Provider</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="skills-label">Cloud & DevOps:</td>
+        <td class="skills-value">
+          <span>AWS (ECS Fargate, EC2, S3, Lambda, CloudFront, Route 53)</span><span>GCP (Cloud Run, Vertex AI)</span><span>Docker</span><span>Kubernetes</span><span>Terraform</span><span>GitHub Actions</span><span>Jenkins</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="skills-label">AI / ML & Agents:</td>
+        <td class="skills-value">
+          <span>Model Context Protocol (MCP)</span><span>Google Gemini</span><span>OpenAI API</span><span>Claude</span><span>LangChain</span><span>RAG Pipelines</span><span>n8n Automations</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="skills-label">Databases & Storage:</td>
+        <td class="skills-value">
+          <span>PostgreSQL</span><span>MySQL</span><span>MongoDB</span><span>Redis</span><span>SQLite & Room</span><span>Firebase Firestore</span><span>AWS S3</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-title">Senior Software & Full Stack Developer — <span class="company">Infoskills Technology Pvt Ltd, Noida</span></div>
+        <div class="job-date">May 2022 – Present</div>
+      </div>
+      <ul class="bullets">
+        <li><strong>TelioEV:</strong> Redesigned EV Charging mobile application in React Native (TS) and engineered scalable backend in Java Spring Boot supporting <strong>OCPP & OCPI protocols</strong> with dynamic tariffs and station discovery. Deployed on AWS ECS Fargate, S3, Route 53 & CloudFront.</li>
+        <li><strong>ElectricOne:</strong> Engineered smart EV charging app in Flutter with Clean Architecture & BLoC, integrating real-time Firebase Firestore data, OCPP charger communication, and AWS S3 media uploads.</li>
+        <li><strong>Hyqoo:</strong> Developed cross-platform Talent Marketplace in Flutter & Dart with GraphQL & REST APIs, Firebase auth & real-time messaging, and GetX/Provider state management.</li>
+        <li><strong>Enterprise MCP Server & Agentic Platforms:</strong> Architected Model Context Protocol (MCP) server backends and automated multi-agent workflow pipelines via n8n and Docker, automating 70% of manual operations.</li>
+        <li><strong>Salon Management System:</strong> Built full-scale salon booking management system using Java Spring Boot microservices, PostgreSQL, and React.js frontend on AWS EC2.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-title">iOS App Developer (Contract) — <span class="company">Teliolabs Communication Pvt Ltd, Noida</span></div>
+        <div class="job-date">Dec 2022 – Feb 2023</div>
+      </div>
+      <ul class="bullets">
+        <li><strong>Charge N'Go:</strong> Developed native iOS application using Swift, MapKit, CoreLocation, and Firebase for real-time EV station mapping, routing, and integrated Stripe/Razorpay payment gateways.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-title">Senior Software Developer — <span class="company">Fluper Ltd, Noida</span></div>
+        <div class="job-date">Feb 2020 – Apr 2022</div>
+      </div>
+      <ul class="bullets">
+        <li>Built backend microservices and web platforms using Node.js, Express, React.js, and MongoDB.</li>
+        <li>Delivered cross-platform Flutter and Android mobile apps for enterprise clients across e-commerce and on-demand platforms (<em>Fuggu, RAL, DynDish, Payday, i12G, HOOT, CoachedIn, A2A, Clout</em>).</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-title">Android Developer — <span class="company">Hire Indians Infotech Pvt Ltd, Noida</span></div>
+        <div class="job-date">Aug 2019 – Jan 2020</div>
+      </div>
+      <ul class="bullets">
+        <li>Developed native Android apps (Java/Kotlin) following MVVM architecture with Room, LiveData, and Retrofit.</li>
+        <li>Integrated live location tracking with Google Maps API and secure payment gateways (Razorpay, Paytm).</li>
+        <li>Key apps: <em>StyleOAK (E-Commerce), Doctor On Demand (Telehealth), Quick Serve (Car Wash)</em>.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-title">Android Developer — <span class="company">Metro Infrasys Pvt Ltd, Gurgaon</span></div>
+        <div class="job-date">May 2016 – Jul 2019</div>
+      </div>
+      <ul class="bullets">
+        <li>Engineered transport and highway management applications (<em>Highway Saathi, Metro Parking, OBU AVS Alexa</em>).</li>
+        <li>Integrated AI voice assistants using API.ai & IBM Watson for voice-controlled navigation and toll recharge.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-title">Android Developer — <span class="company">Zebrogs Technologies, Noida</span></div>
+        <div class="job-date">May 2015 – May 2016</div>
+      </div>
+      <ul class="bullets">
+        <li>Developed native Android e-commerce and sports events tracking applications using Android SDK.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- KEY PROJECTS -->
+  <div class="section">
+    <div class="section-title">Key Projects & Live Deployments</div>
+    
+    <div class="project-item">
+      <div class="project-header">
+        <span class="project-name">TelioEV Platform (https://telioev.com)</span>
+        <span class="project-tech">React Native, Java Spring Boot, OCPP, AWS</span>
+      </div>
+      <ul class="bullets">
+        <li>End-to-end EV charging ecosystem handling charger discovery, live telemetry, and payment transactions.</li>
+      </ul>
+    </div>
+
+    <div class="project-item">
+      <div class="project-header">
+        <span class="project-name">Charge N'Go iOS App (Apple App Store)</span>
+        <span class="project-tech">Swift, iOS SDK, MapKit, Firebase, Stripe</span>
+      </div>
+      <ul class="bullets">
+        <li>Production EV charging app on App Store featuring real-time station availability, routing, and remote start/stop.</li>
+      </ul>
+    </div>
+
+    <div class="project-item">
+      <div class="project-header">
+        <span class="project-name">Highway Saathi App (Google Play Store)</span>
+        <span class="project-tech">Android (Java), IBM Watson, Google Maps, Retrofit</span>
+      </div>
+      <ul class="bullets">
+        <li>Smart travel app providing toll recharge, emergency SOS, and voice-assisted driving features.</li>
+      </ul>
+    </div>
+
+    <div class="project-item">
+      <div class="project-header">
+        <span class="project-name">DocSetuAI & AI Business Suite (https://docsetuai.vercel.app)</span>
+        <span class="project-tech">Next.js 15, Gemini 3.6 Flash, Cloud Run, Firestore</span>
+      </div>
+      <ul class="bullets">
+        <li>Autonomous AI business operations and analytics platform with real-time multi-agent workflows.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- EDUCATION & ACHIEVEMENTS -->
+  <div class="section">
+    <div class="section-title">Education & Achievements</div>
+    
+    <div class="edu-row">
+      <div><span class="edu-degree">Executive PG in Data Science</span> — <span class="edu-school">IIIT Bangalore</span></div>
+      <div class="edu-date">Mar 2022 – Apr 2024</div>
+    </div>
+    <div class="edu-row">
+      <div><span class="edu-degree">Master of Computer Applications (MCA)</span> — <span class="edu-school">NIET, Greater Noida</span></div>
+      <div class="edu-date">Jul 2013 – Jun 2015</div>
+    </div>
+    <div class="edu-row">
+      <div><span class="edu-degree">Bachelor of Computer Applications (BCA)</span> — <span class="edu-school">IP College, Bulandshahar</span></div>
+      <div class="edu-date">Jul 2010 – Jun 2013</div>
+    </div>
+
+    <ul class="bullets" style="margin-top: 6px;">
+      <li><strong>50+ Apps Delivered:</strong> Successfully deployed and scaled 50+ applications across Play Store, App Store, and Cloud.</li>
+      <li><strong>HackforIndia (Mobile10X / Paytm):</strong> Built AI-powered barcode food inspection scanner for product safety.</li>
+      <li><strong>Architecture Modernization:</strong> Led monolithic to microservices migrations, reducing latency by 60% and costs by 30%.</li>
+    </ul>
+  </div>
+
+</body>
+</html>
