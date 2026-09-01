@@ -1,62 +1,31 @@
-# 👋 Hello, I'm Sonu Kumar
+<div align="center">
 
-![Profile Banner](profile-banner.png)
+<img src="https://raw.githubusercontent.com/sonurust/DocSetuAI/main/docs/assets/github-cover-banner.jpg" alt="Sonu Kumar - Cloud AI Architect" width="100%" />
 
-**Senior Software Engineer | Rust Evangelist | Mobile & AI Developer**
+# Hi there, I'm Sonu Kumar 👋
+### Cloud AI Architect & Full-Stack Systems Engineer
 
-Building high-performance systems and delightful mobile experiences. Passionate about Rust, Systems Programming, and the future of AI.
+[![Portfolio](https://img.shields.io/badge/Live_App-DocSetuAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://docsetuai.vercel.app)
+[![API Gateway](https://img.shields.io/badge/Cloud_Run-API_Live-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://docsetuai-api-z5nen6wcxq-uc.a.run.app/health)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_9810659036-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919810659036)
+[![Instagram](https://img.shields.io/badge/Instagram-@skbhati1992-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skbhati1992)
 
----
-
-### 🚀 Core Expertise
-
-- **🦀 Systems Programming**: Rust (Ownership, Concurrency, Performance), Systems Design.
-- **📱 Mobile Development**: Expo, React Native, NativeWind, Kotlin (Android).
-- **🤖 AI & Tooling**: LLM Fine-tuning (Qwen), AI Coding Assistants, Developer SDKs.
-- **🔗 Integrations**: AuthSetu, MCP (Model Context Protocol).
+</div>
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Tech Stack & Expertise
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[30-days-of-rust](https://github.com/sonurust/30-days-of-rust)** | A deep dive into mastering Rust through daily challenges. | Rust, Cargo |
-| **[expo-nativewind-template](https://github.com/sonurust/expo-nativewind-template)** | Professional starter kit for Expo + TailwindCSS. | React Native, TypeScript |
-| **[kilocode](https://github.com/sonurust/kilocode)** | AI-powered coding assistant for planning and execution. | Python, AI, Git |
-| **[WaterTrackDrinkWaterReminder](https://github.com/sonurust/WaterTrackDrinkWaterReminder)** | Modern Android app for daily water tracking with reminders. | Kotlin, Android SDK |
-| **[authsetu-node-sdk](https://github.com/sonurust/authsetu-node-sdk)** | Seamless authentication integration for Node.js apps. | JavaScript, Auth |
+- **Languages & Frameworks:** Rust, TypeScript, Python, Java (Spring Boot), Next.js 15, React 19, Node.js
+- **Cloud & AI:** Google Cloud (Gemini 3.6 Flash, Vertex AI, Cloud Run, Firestore), AWS (App Runner, SES, SNS, DynamoDB)
+- **Architecture:** Multi-Agent Systems, Event-Driven Microservices, Server-Sent Events (SSE), Human-in-the-loop Autonomous Workflows
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📬 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonurust&show_icons=true&theme=tokyonight&count_private=true" alt="Sonu's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonurust&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonurust&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonurust&theme=tokyo-night" width="100%" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-- 📧 Email: [sonurust@gmail.com](mailto:sonurust@gmail.com)
-- 💬 Discord: `sonurust`
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sonurust/) (Update this link!)
-- 📱 Phone: +91-9810218672
-
----
-
-<p align="center">
-  <i>"Code is poetry, Rust is the ink."</i>
-</p>
+- 📱 **Phone / WhatsApp:** [+91 9810659036](https://wa.me/919810659036)
+- 🌐 **Project:** [DocSetuAI on Vercel](https://docsetuai.vercel.app)
+- 📸 **Instagram:** [@skbhati1992](https://instagram.com/skbhati1992)
+- 📘 **Facebook:** [skbhati199](https://facebook.com/skbhati199)
+- 💻 **GitHub:** [@sonurust](https://github.com/sonurust)
